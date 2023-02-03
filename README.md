@@ -1,1 +1,1 @@
-# interact-github
+Replace <username> with the GitHub username of the repository owner, and <repository> with the name of the repository you want to interact with. This code will print a JSON object containing information about the repository, including the repository name, description, and creation date. You can use this code as a starting point and modify it to suit your specific needs. For more information about the GitHub API and how to use it, please refer to the GitHub API documentation.
